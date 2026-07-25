@@ -22,7 +22,7 @@
 
 
 KaliGPT-Attack Platform 是一个创新的AI驱动的自主渗透测试工具，采用独特的**三模块架构**（推理、生成、解析），有效解决了传统LLM在长时间渗透测试过程中的上下文丢失问题。该工具支持Web UI和MCP-stdio两种工作模式，能够自主决策、执行渗透测试任务，并实时反馈结果。
-[!([https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square](https://mmbiz.qpic.cn/sz_mmbiz_png/ZQgABwTC9I59Z22xEnprcfcUpgEOGwx2bOic0pYcLsUBV2iaJsSsSWvSPvsrLsjKUVykuVgzU4bL0KibaeE6YRJfQ/640?wx_fmt=png&from=appmsg&watermark=1))]
+[!([https://mmbiz.qpic.cn/sz_mmbiz_png/ZQgABwTC9I59Z22xEnprcfcUpgEOGwx2bOic0pYcLsUBV2iaJsSsSWvSPvsrLsjKUVykuVgzU4bL0KibaeE6YRJfQ/640?wx_fmt=png&from=appmsg&watermark=1])]
 
 ### ✨ 核心特性
 
