@@ -1,6 +1,6 @@
 <div align="center">
 
-# KaliGPT-Attack Platform (beta v0.2)🛡️
+# KaliGPT-Attack Platform 🛡️
 
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat-square&logo=go)](https://golang.org)
